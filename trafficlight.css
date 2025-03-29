@@ -1,0 +1,41 @@
+/* div{
+    height:100px;
+    width:100px;
+    background-color: green;
+    border-radius: 50%;
+} */
+
+
+.traffic-light {
+     
+    padding: 20px;
+    border-radius: 10px;
+    
+    
+    align-items: center;
+    
+}
+
+#red{
+    height:50px;
+    width:50px;
+    background-color:red;
+    border-radius:50%;
+    border:5px solid black;
+}
+#yellow{
+    height:50px;
+    width:50px;
+    background-color:yellow;
+    border-radius:50%;
+    border:5px solid black;
+
+}
+#green{
+    height:50px;
+    width:50px;
+    background-color:green;
+    border-radius:50%;
+    border:5px solid black;
+
+}
